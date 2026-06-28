@@ -16,6 +16,8 @@ dist-ssr
 .env.example
 /uploads/
 frontend/.env.example
+ecosystem.config.cjs
+nginx.conf.example
 
 # Editor directories and files
 .vscode/*
