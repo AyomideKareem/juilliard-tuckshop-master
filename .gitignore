@@ -14,7 +14,7 @@ dist-ssr
 
 .env
 .env.example
-uploads/
+/uploads/
 frontend/.env.example
 
 # Editor directories and files
